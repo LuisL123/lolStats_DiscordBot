@@ -1,7 +1,7 @@
 # Discord League Stats Bot
 
 ## Description 
-This Discord bot is designed to fetch and display League of Legends player statistics in Discord servers. Upon receiving commands in the format @<username>#<server>, the bot queries the Riot Games API to retrieve specific player data, such as tier, rank, and winrate. Built with Python, it uses Discord and Riot Games APIs to provide a user-friendly interface for gamers to access stats without leaving Discord. The bot ensures secure handling of API keys and smooth integration with Discord's messaging features. Feel free to modify the bot to your liking!
+This Discord bot is designed to fetch and display League of Legends player statistics in Discord servers. Upon receiving commands in the format @username#server, the bot queries the Riot Games API to retrieve specific player data, such as tier, rank, and winrate. Built with Python, it uses Discord and Riot Games APIs to provide a user-friendly interface for gamers to access stats without leaving Discord. The bot ensures secure handling of API keys and smooth integration with Discord's messaging features. Feel free to modify the bot to your liking!
 
 ## Features
 * **Dynamic Commands**: Users can request stats by simply typing @<username>#<server>, making it easy and intuitive.
