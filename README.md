@@ -18,8 +18,13 @@ This Discord bot is designed to fetch and display League of Legends player stati
    - Access `https://discord.com/api/oauth2/authorize?client_id=1187410434425364591&permissions=68608&scope=bot` on a webpage.
    - Select the desired server.
    - Click `Authorize`.
-3. **Run the Bot**: Run the `main.py` file.
-4. **Enjoy!**: Try typing in the server a message in the format @<username>#server and see what the bot responds.
+3. **Set Up your API keys**:
+   - Obtain your Riot Games API key from the Riot Developer Portal at `https://developer.riotgames.com/`. Remember, this key expires every 24 hours and needs to be regenerated for continued use.
+   - Paste the API key in the RIOT_API_KEY variable in the `config.py` file.
+  
+## Usage
+1. **Run the Bot**: Execute your bot script (e.g., python `main.py`) to start the bot. It should now be active and responding to commands in your Discord server.
+2. **Enjoy!**: Try typing in the server a message in the format @<username>#server and see what the bot responds.
 
 ## Contributing
 Feel free to modify the code to add any capabilities that you want to the bot. Any improvements and feedback is welcome!
