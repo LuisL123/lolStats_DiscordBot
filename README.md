@@ -16,4 +16,12 @@ This Discord bot is designed to fetch and display League of Legends player stati
 1. **Clone this Repository**: Use `https://github.com/LuisL123/lolStats_DiscordBot.git` to clone this extension's code to your local machine.
 2. **Invite the Bot to the Server**:
    - Access `https://discord.com/api/oauth2/authorize?client_id=1187410434425364591&permissions=68608&scope=bot` on a webpage.
+   - Select the desired server.
+   - Click `Authorize`.
+3. **Run the Bot**: Run the `main.py` file.
+4. **Enjoy!**: Try typing in the server a message in the format @<username>#server and see what the bot responds.
+
+## Contributing
+Feel free to modify the code to add any capabilities that you want to the bot. Any improvements and feedback is welcome!
+
    
