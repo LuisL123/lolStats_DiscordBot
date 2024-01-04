@@ -3,7 +3,7 @@ import responses
 import lolrequests
 from config import RIOT_API_KEY, DISCORD_BOT_TOKEN
 
-
+## UNCOMMENT THE FOLLOWING CODE IF WANT TO ADD MORE CAPABILITIES TO THE BOT
 # async def send_message(message, user_message, is_private):
 #     try:
 #         response = responses.handle_response(user_message)
